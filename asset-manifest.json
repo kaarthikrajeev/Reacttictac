@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kaarthikrajeev/Reacttictactoe/static/css/main.71c3ebef.css",
+    "main.js": "/kaarthikrajeev/Reacttictactoe/static/js/main.cf321e8c.js",
+    "static/js/787.32b887b6.chunk.js": "/kaarthikrajeev/Reacttictactoe/static/js/787.32b887b6.chunk.js",
+    "index.html": "/kaarthikrajeev/Reacttictactoe/index.html",
+    "main.71c3ebef.css.map": "/kaarthikrajeev/Reacttictactoe/static/css/main.71c3ebef.css.map",
+    "main.cf321e8c.js.map": "/kaarthikrajeev/Reacttictactoe/static/js/main.cf321e8c.js.map",
+    "787.32b887b6.chunk.js.map": "/kaarthikrajeev/Reacttictactoe/static/js/787.32b887b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71c3ebef.css",
+    "static/js/main.cf321e8c.js"
+  ]
+}
